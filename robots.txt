@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: /files/cv.pdf
 Disallow: /img/
 Disallow: /files/
-Sitemap: https://reionize.github.io/sitemap.xml
+Sitemap: https://symmetryai.dev/sitemap.xml
